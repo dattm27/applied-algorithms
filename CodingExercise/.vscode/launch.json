@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/dattran/OneDrive - Hanoi University of Science and Technology/Documents/IT3170 Thuật toán ứng dụng/applied-algorithms/CodingExercise",
+      "program": "/Users/dattran/OneDrive - Hanoi University of Science and Technology/Documents/IT3170 Thuật toán ứng dụng/applied-algorithms/CodingExercise/build/Debug/outDebug"
+    }
+  ]
+}
